@@ -12,7 +12,7 @@ public class HelloGit {
         System.out.println("分支添加");
         System.out.println("分支添加1");
         System.out.println("clone的项目更新");
-
+        System.out.println("gitee在线更新");
 
 
     }

@@ -1,0 +1,10 @@
+package com.kx;
+
+/**
+ * @author 贾帅彬
+ */
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("Hello Git");
+    }
+}
